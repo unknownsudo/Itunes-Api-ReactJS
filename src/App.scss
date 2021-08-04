@@ -1,0 +1,50 @@
+body {
+    margin-top: 10% !important;
+ 
+ .search-bar-cont {
+    display: flex;
+    justify-content: center;
+    button {
+       background-color: rgb(255, 0, 106);
+       outline: none;
+       border: none;
+       &:hover {
+           cursor: pointer;
+       }
+   }
+   
+    input {
+        width: 45vw;
+        height: 3vh;
+    }
+}
+
+ul {
+   display: flex;
+   flex-direction: column;
+   align-items: start;
+
+   li {
+       text-align: center;
+       list-style: none;
+   }
+   .artist-name::before {
+       content: "Artist Name: ";
+       font-weight: bold;
+   }
+   
+   .music-name::before {
+       content: "Music Name: ";
+       font-weight: bold;
+   }
+   
+   .album-name::before {
+       content: "Album Name: ";
+       font-weight: bold;
+   }
+}
+}
+ 
+
+
+ 
