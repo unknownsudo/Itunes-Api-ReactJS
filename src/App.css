@@ -1,7 +1,8 @@
 body {
-  margin-top: 10% !important;
+  margin-top: 10%;
 }
-body .search-bar-cont {
+
+.search-bar-cont {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -9,19 +10,20 @@ body .search-bar-cont {
       -ms-flex-pack: center;
           justify-content: center;
 }
-body .search-bar-cont button {
+.search-bar-cont button {
   background-color: #ff006a;
   outline: none;
   border: none;
 }
-body .search-bar-cont button:hover {
+.search-bar-cont button:hover {
   cursor: pointer;
 }
-body .search-bar-cont input {
+.search-bar-cont input {
   width: 45vw;
   height: 3vh;
 }
-body ul {
+
+ul {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -29,23 +31,24 @@ body ul {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: start;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 0;
 }
-body ul li {
+ul li {
   text-align: center;
   list-style: none;
 }
-body ul .artist-name::before {
+ul .artist-name::before {
   content: "Artist Name: ";
   font-weight: bold;
 }
-body ul .music-name::before {
+ul .music-name::before {
   content: "Music Name: ";
   font-weight: bold;
 }
-body ul .album-name::before {
+ul .album-name::before {
   content: "Album Name: ";
   font-weight: bold;
 }
