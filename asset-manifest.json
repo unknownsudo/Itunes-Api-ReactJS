@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Itunes-Api-ReactJS/static/css/main.331b65f7.chunk.css",
+    "main.js": "/Itunes-Api-ReactJS/static/js/main.1c480735.chunk.js",
+    "main.js.map": "/Itunes-Api-ReactJS/static/js/main.1c480735.chunk.js.map",
+    "runtime-main.js": "/Itunes-Api-ReactJS/static/js/runtime-main.274de739.js",
+    "runtime-main.js.map": "/Itunes-Api-ReactJS/static/js/runtime-main.274de739.js.map",
+    "static/js/2.b39b4256.chunk.js": "/Itunes-Api-ReactJS/static/js/2.b39b4256.chunk.js",
+    "static/js/2.b39b4256.chunk.js.map": "/Itunes-Api-ReactJS/static/js/2.b39b4256.chunk.js.map",
+    "static/js/3.e18bfc99.chunk.js": "/Itunes-Api-ReactJS/static/js/3.e18bfc99.chunk.js",
+    "static/js/3.e18bfc99.chunk.js.map": "/Itunes-Api-ReactJS/static/js/3.e18bfc99.chunk.js.map",
+    "index.html": "/Itunes-Api-ReactJS/index.html",
+    "static/css/main.331b65f7.chunk.css.map": "/Itunes-Api-ReactJS/static/css/main.331b65f7.chunk.css.map",
+    "static/js/2.b39b4256.chunk.js.LICENSE.txt": "/Itunes-Api-ReactJS/static/js/2.b39b4256.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.274de739.js",
+    "static/js/2.b39b4256.chunk.js",
+    "static/css/main.331b65f7.chunk.css",
+    "static/js/main.1c480735.chunk.js"
+  ]
+}
